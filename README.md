@@ -4,6 +4,12 @@
 This API requires LoneLibs to be added to your dependencies.
 
 ```xml
+ <repository>
+    <id>matteodev</id>
+    <url>https://maven.devs.beer/</url>
+</repository>
+```
+```xml
 <dependency>
     <groupId>dev.lone</groupId>
     <artifactId>LoneLibs</artifactId>
